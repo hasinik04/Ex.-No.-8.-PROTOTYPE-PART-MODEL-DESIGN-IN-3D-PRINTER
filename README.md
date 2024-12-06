@@ -45,7 +45,8 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:![empd exp no 3](https://github.com/user-attachments/assets/3c065329-5838-4bef-bcdf-9238d37b5d12)
+## Output :
+![Screenshot 2024-12-05 204915](https://github.com/user-attachments/assets/ce6d8969-f56e-4ea4-b975-2a0b5b334f7f)
 
 
 ### Name:Kathi Hasini
